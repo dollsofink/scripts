@@ -1,0 +1,38 @@
+Polynomials
+
+(A + X) * (B + X)
+
+This statement looks intimidating. But it's Calculus I.
+Breathe, cause this gets funny.
+
+"A Ex, times how many exes you have"
+
+Be famous, how many exes do you have?
+
+Now that's Calculus. CONGRATULATIONS on passing Algebra.
+
+========================================================
+
+Exam:
+A = Male
+B = Female (single)
+
+How many partners have we had?
+
+ANSWER:
+A lot! Let me explain why. Each person has an average of 6 partners in their life.
+6 exes per partner. 2 partners. As a polynomial that's (1 + 6) * (1 * 6).
+Solve...
+
+========================================================
+
+Exam 2:
+(A + X) * (B + X)
+(1 + 6) * (1 * 6)
+(7) * (7) = 49
+
+We've had 49 partners.
+
+How many sexual partners?
+i. What do you consider sexual? Romance or fluid-exchange?
+ii. Which fluid?
