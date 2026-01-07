@@ -1,0 +1,25 @@
+We can't put commas in Filenames. So:
+
+RULES OF FILE NAMING
+(please follow the convention)
+
+[ ] STANDARDIZE Month & Day
+    1. YYYY-MM-DD is MOST correct
+       i. MM-DD is acceptable. But you only have 1-year.
+          Your files will NEVER be organized. They are sorted by alphabetic characters. Integers are first. Years ALWAYS tick up; months revolve every year.
+          Do you want 2012-11-11, 2013-11-11, 2013-11-12
+             OR
+                11-11, 11-11, 11-12
+          ?
+    2. Let the device CHOOSE THE FILENAME
+       i. I swear, they are right. Filenames should be chronological!
+       ii. If you get artistic, be right.
+       iii. Place ALL YOUR FOOTAGE in 1 folder. ONE.
+       iv. Place all your finished projects in ONE FOLDER.
+           Nested:
+             <MAIN_PROJECTS_DIR>/<MY_PROJECT_FOLDER>
+             <MAIN_PROJECTS_DIR>/<MY_PROJECT_FOLDER_2>
+             <MAIN_PROJECTS_DIR>/<MY_PROJECT_FOLDER_3>
+
+Now you're ready for War.
+
