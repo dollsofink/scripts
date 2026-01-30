@@ -7,7 +7,7 @@ import tempfile
 # ===============================
 # CONFIG
 # ===============================
-DURATION = 3      # seconds per image
+DURATION = 6      # seconds per image
 WIDTH = 1080
 HEIGHT = 1920
 FPS = 30
